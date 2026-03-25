@@ -1,0 +1,14 @@
+{
+  "name": "fingerprint-manager",
+  "version": "1.0.0",
+  "description": "Fingerprint & Username Manager with MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3",
+    "cors": "^2.8.5"
+  }
+}
